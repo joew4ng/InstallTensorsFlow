@@ -12,6 +12,7 @@
   - ***Activate the virtual environment***: activate tensorflow
   - ***Deactivate the virtual environment***: deactivate tensorflow
   - ***Install cpu version of Tensorsflow in virtual environment***: pip install --upgrade --ignore-installed tensorflow
+  
   **This version is the CPU version, if you want to install the GPU version of your own Google**
   - ***Test***
    ``` 
@@ -36,6 +37,7 @@ installTensorsFlow- Anaconda 3.X
   - ***激活虚拟环境***: activate tensorflow
   - ***关闭虚拟环境***: deactivate tensorflow
   - ***在虚拟环境中安装cpu版本的Tensorsflow***: pip install --upgrade --ignore-installed tensorflow
+  
   **此版本是CPU版本,如有想安装GPU版本请自行Google**
   - ***测试Tensorflow是否安装成功***
    ``` 
