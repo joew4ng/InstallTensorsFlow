@@ -14,9 +14,9 @@ installTensorsFlow- Anaconda 3.X
   - 在虚拟环境中安装cpu版本的Tensorsflow: pip install --upgrade --ignore-installed tensorflow
   **此版本是CPU版本,如有想安装GPU版本请自行Google**
   - 测试Tensorflow
-  '''
+   ``` 
   import tensorflow as tf
   hello = tf.constant('Hello, World! Tensorflow!')
   sess = tf.Session()
   print(sess.run(hello))
-  '''
+   ``` 
