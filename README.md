@@ -21,6 +21,8 @@
   sess = tf.Session()
   print(sess.run(hello))
    ``` 
+ ### Install TFlearn
+ - pip install tflearn
 
 
 
@@ -46,3 +48,5 @@ installTensorsFlow- Anaconda 3.X
   sess = tf.Session()
   print(sess.run(hello))
    ``` 
+### Install TFlearn
+ - pip install tflearn
