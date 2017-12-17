@@ -33,6 +33,7 @@ installTensorsFlow- Anaconda 3.X
 
 ### Trensorflow 安装(CPU版本)
 1 Anacoda 安装 windows版本 [Anacoda](https://www.anaconda.com/download/) **安装过程不语累述**
+
 2 Trensorflow 安装
   - **在Anacoda中创建一个虚拟环境(Trensorflow)***: conda create -n tensorflow python=3.6.3
   - **运行 开始菜单**->Anaconda3 ->Anaconda Navigator -> 点击 Enviroments, 可以看到tensorflow环境已经创建完毕
