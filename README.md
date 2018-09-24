@@ -50,4 +50,4 @@ installTensorsFlow- Anaconda 3.X
   print(sess.run(hello))
    ``` 
 ### Install TFlearn
- - pip install tflearn
+ - pip install tflearn 
