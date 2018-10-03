@@ -48,6 +48,6 @@ installTensorsFlow- Anaconda 3.X
   hello = tf.constant('Hello, World! Tensorflow!')
   sess = tf.Session()
   print(sess.run(hello))
-   ``` 
+   ```  
 ### Install TFlearn
  - pip install tflearn 
